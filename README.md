@@ -1,5 +1,5 @@
 # BehaveClass
-BehaveClass is a licensed behavior mangement portal for school districts. BehaveClass is aimed towards schools who want to keep track of students behavioral issues while
+BehaveClass is a licensed behavior mangement portal designed for school districts. BehaveClass is aimed towards schools who want to keep track of students behavioral issues while
 also allowing parents to see how their kid is performing. BehaveClass is currently free to use, but still requires a license to be obtained from <domain WIP>. 
 
 # Features
