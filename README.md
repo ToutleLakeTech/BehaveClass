@@ -8,7 +8,7 @@ BehaveClass has many features for students, teachers, administration, and parent
 - Student Reminders
 - Attendance
 - Student Quick Connect
-All of these features have explanations below.
+#All of these features have explanations below.
 
 # Parent Quick Connect
 Parent Quick Connect allows parents to quickly connect to the administration and teachers of their children. This feature is intended to quickly chat about their childs
