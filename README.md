@@ -8,7 +8,13 @@ BehaveClass has many features for students, teachers, administration, and parent
 - Student Reminders
 - Attendance
 - Student Quick Connect
+- Admininstration Overview
 # All of these features have explanations below.
+
+# Planned Features
+- Securly integration (allow parents to see what their children are looking up)
+- At Home Learning (live stream of the current class, up to individual teacher)
+- Student Quick Sign Out (parents can sign their child out of school remotely)
 
 # Parent Quick Connect
 Parent Quick Connect allows parents to quickly connect to the administration and teachers of their children. This feature is intended to quickly chat about their childs
@@ -25,6 +31,17 @@ are ready to go and can begin their class. The teachers will get a notification 
 # Student Quick Connect
 Student Quick Connect is designed for students who want to get into contact with each other. Have a group assignment? Use Student Quick Connect! Student Quick Connect can
 also allow for class officers to easily contact each other and plan meetings together.
+
+# Administration Overview
+Administration overview allows district administration to oversee what all is happening day to day. Things admin can see can include:
+- Active Users
+- Attendance
+- Schedule
+- Schedule Changes
+- Staff
+- District Settings
+- User Settings
+- Site Settings
 
 # Disabling Features
 Don't want some of these features? You can easily disable them in the administration interface. 
