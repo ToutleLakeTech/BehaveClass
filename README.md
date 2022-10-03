@@ -9,10 +9,10 @@ BehaveClass has many features for students, teachers, administration, and parent
 - Attendance
 - Student Quick Connect
 - Admininstration Overview
+- Site Blocks
 # All of these features have explanations below.
 
 # Planned Features
-- Securly integration (allow parents to see what their children are looking up)
 - At Home Learning (live stream of the current class, up to individual teacher)
 - Student Quick Sign Out (parents can sign their child out of school remotely)
 
@@ -42,6 +42,10 @@ Administration overview allows district administration to oversee what all is ha
 - District Settings
 - User Settings
 - Site Settings
+- Site Blocks
+
+# Site Blocks
+Site Blocks is DNS system to easily block websites. Don't want to manually enter every website? Just use some of our preset policies! Site Blocks will even work outside of an internal network. Site Blocks has a built in dashboard in BehaveClass to easily manage allowed sites, blocked sites, and view what students are looking up. 
 
 # Disabling Features
 Don't want some of these features? You can easily disable them in the administration interface. 
