@@ -49,3 +49,14 @@ Site Blocks is DNS system to easily block websites. Don't want to manually enter
 
 # Disabling Features
 Don't want some of these features? You can easily disable them in the administration interface. 
+
+# Technologies
+BehaveClass is using many different technologies that interact with each other simultaneously. BehaveClass is focused to bring schools to the twenty-first century instead of being stuck on pen and paper. Some technologies used could be listed as:
+- ReactJS
+- JavaScript
+- NodeJS
+- TailwindCSS
+- Laravel
+- PHP
+- MySQL
+- So much more!
