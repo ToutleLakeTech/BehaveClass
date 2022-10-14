@@ -55,8 +55,6 @@ BehaveClass is using many different technologies that interact with each other s
 - ReactJS
 - JavaScript
 - NodeJS
-- TailwindCSS
-- Laravel
-- PHP
-- MySQL
+- Material UI
+- MongoDB
 - So much more!
