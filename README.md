@@ -45,7 +45,7 @@ Administration overview allows district administration to oversee what all is ha
 - Site Blocks
 
 # Site Blocks
-Site Blocks is DNS system to easily block websites. Don't want to manually enter every website? Just use some of our preset policies! Site Blocks will even work outside of an internal network. Site Blocks has a built in dashboard in BehaveClass to easily manage allowed sites, blocked sites, and view what students are looking up. 
+Site Blocks is DNS system to easily block websites. Don't want to manually enter every website? Just use some of our preset policies! Site Blocks has a built in dashboard in BehaveClass to easily manage allowed sites, blocked sites, and view what students are looking up. SiteBlocks is built off of the Pi-Hole system. Feature is only available if you have a Pi-Hole system setup. 
 
 # Disabling Features
 Don't want some of these features? You can easily disable them in the administration interface. 
