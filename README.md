@@ -10,6 +10,7 @@ BehaveClass has many features for students, teachers, administration, and parent
 - Student Quick Connect
 - Admininstration Overview
 - Site Blocks
+- Morning Announcements
 # All of these features have explanations below.
 
 # Planned Features
@@ -46,6 +47,9 @@ Administration overview allows district administration to oversee what all is ha
 
 # Site Blocks
 Site Blocks is DNS system to easily block websites. Don't want to manually enter every website? Just use some of our preset policies! Site Blocks has a built in dashboard in BehaveClass to easily manage allowed sites, blocked sites, and view what students are looking up. SiteBlocks is built off of the Pi-Hole system. Feature is only available if you have a Pi-Hole system setup. 
+
+# Morning Announcements
+Morning Announcements are made for larger schools which intend to have morning announcements that list important events happening soon. This would be a virtual instance, which are able to playback audio or show the announcements in text. 
 
 # Disabling Features
 Don't want some of these features? You can easily disable them in the administration interface. 
